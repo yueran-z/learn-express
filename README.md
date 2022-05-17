@@ -3,7 +3,11 @@
 
 
 在environments -> 建一个development.env填上自己的数据库环境配置
+
 PORT=3000
+
 DB_USER=
+
 DB_PWD=
+
 DB_NAME=
